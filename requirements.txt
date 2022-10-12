@@ -1,0 +1,14 @@
+requests
+Pyrogram==1.4.9
+tgcrypto
+py-tgcalls
+youtube_dl 
+yt-dlp==2021.11.10.1
+youtube_search
+git+https://github.com/alexmercerind/youtube-search-python@main
+aiohttp
+aiofiles
+Pillow
+python-arq
+wget
+ffmpeg
