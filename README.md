@@ -1,5 +1,5 @@
 <p align="center">ʕ•ᴥ•ʔ 𝐒𝐀𝐑𝐕𝐄𝐒𝐇 </p>
-<p align="center"><img src="https://github.com/Silent-Devs/Alexus/raw/main/resources/Alexus.png"></a></p>
+<p align="center"><img src="https://telegra.ph/file/50938a36ecf36d53be824.jpg"></a></p>
 <h2 align="center">ᴛʜᴇ ᴍᴏsᴛ sᴍᴏᴏᴛʜ <br> ᴍᴜsɪᴄ ʙᴏᴛ </h2>
 
 # ᴀʙᴏᴜᴛ ᴍᴇ: 
